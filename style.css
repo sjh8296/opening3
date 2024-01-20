@@ -1,0 +1,15 @@
+#lottoContainer {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.ball {
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 40px;
+	margin: 5px;
+	font-size: 20px;
+	color: white;
+}
